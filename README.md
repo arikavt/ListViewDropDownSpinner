@@ -1,2 +1,2 @@
 # ListViewDropDownSpinner
-catagorise the data by ID selecting spinner data 
+catagorise the list data by selecting spinner item 
